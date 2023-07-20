@@ -222,16 +222,16 @@ If using `--loop` and the color is not what you want,
 3. Hit enter again.  
 4. When satisfied, type `no`
 
-- **No loop** With loop,   
+- **No loop**   
 If not using loop:
 1. Close image
 2. Click back in command prompt/terminal
 3. Press up arrow
 4. Hit enter
 
-After generating an image you like, loop at the output line beginning with `breed util` 
+After generating an image you like, copy the line of output beginning with `breed util` 
 
-![generated alter-genome statement](./images/generated-alter-genome-command.png")
+![generated alter-genome statement](./images/generated-alter-genome-command.png)
 
 --------
 
