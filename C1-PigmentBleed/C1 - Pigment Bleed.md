@@ -231,7 +231,7 @@ If not using loop:
 
 After generating an image you like, loop at the output line beginning with `breed util` 
 
-<img src="./images/generated-alter-genome-command.png" alt="generated alter-genome statement" width="500px">
+![generated alter-genome statement](./images/generated-alter-genome-command.png")
 
 --------
 
@@ -269,8 +269,8 @@ Move the `SPR` file into your images folder, and your COB and RCB file whever yo
 Most cases, the root C1 folder
 
 1. Open the game, and inject the `Egg Jector` COB with the Agent Injector.   
-*Note: You must have at least one norn in your game to open the agent injector*
-<img src="images/09-01-Inject-EggJector.png" alt="EggJector loaded in Agent Injector" width="400" />
+*Note: You must have at least one norn in your game to open the agent injector*  
+![EggJector loaded in Agent Injector](images/09-01-Inject-EggJector.png)
 2. Navigate to Incubator, and click on the gauge at the top of the incubator  
 It will light up purple when it is ready to be clicked.  
 ![Egg Jector launch button](images/09-02-EggJector-launch-button.png)
